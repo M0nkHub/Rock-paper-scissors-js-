@@ -1,6 +1,12 @@
-# Rock-paper-scissors-only-JS-Console
+# Rock Paper Scissors (JS Console)  
 
+A simple **Rock Paper Scissors** game built with JavaScript that runs entirely in the console.  
 
-#From the odin project, this game is the famous game Rock paper Sciccor and it goes in 5 round where it expects an input from the user and generate an answer from the computer using Math.random() and compares the two answers ro declare one a winner, and the winner of 5 rounds wins the game.
+### How It Works  
+- The game consists of **5 rounds**.  
+- The player enters their choice (rock, paper, or scissors).  
+- The computer randomly selects a choice using `Math.random()`.  
+- The winner of each round is determined based on standard rules.  
+- The first to win **5 rounds** wins the game.  
 
-# the game plays only in console and has no html or css code at all.
+🖥️ **No HTML or CSS—just pure JavaScript in the console!** 
